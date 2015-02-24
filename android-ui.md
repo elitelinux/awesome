@@ -203,7 +203,7 @@ Parallax
 ======================
 Name | License | Demo
 --- | --- | ---
-[ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere) | [MIT](http://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/elitelinux/awesome-android-ui/master/art/art/parallax-everywhere.gif" width="49%">
+[ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere) | [MIT](http://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/elitelinux/awesome-android-ui/master/art/parallax-everywhere.gif" width="49%">
 
 Effect
 ======================
