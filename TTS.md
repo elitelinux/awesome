@@ -1,0 +1,10 @@
+http://dimio.altervista.org/eng/
+http://www.festvox.org/voicedemos.html
+http://vozme.com/index.php?lang=en
+http://vozme.com/webmasters.php?lang=en
+http://www.spokentext.net/
+http://www.zamzar.com/
+https://addons.mozilla.org/en-US/firefox/addon/text-to-voice/
+http://www.text2speech.org/
+http://www.spokentext.net/?lang=es
+http://www.pediaphon.org/~bischoff/radiopedia/index_es.html
