@@ -26,4 +26,5 @@ http://fullmeasure.co.uk/powertalk/#downloads
 http://www.naturalreaders.com/
 http://dimio.altervista.org/eng/
 http://www.cross-plus-a.com/balabolka.htm
+https://chrome.google.com/webstore/detail/announcify/mmiolkcfamcbpoandjpnefiegkcpeoan
 
