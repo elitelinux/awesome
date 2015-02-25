@@ -8,3 +8,6 @@ https://addons.mozilla.org/en-US/firefox/addon/text-to-voice/
 http://www.text2speech.org/
 http://www.spokentext.net/?lang=es
 http://www.pediaphon.org/~bischoff/radiopedia/index_es.html
+http://espeak.sourceforge.net/
+https://support.office.com/en-us/article/Using-the-Speak-feature-with-Multilingual-TTS-e522a4f2-37cb-492b-be6a-8997d23dfe70?CorrelationId=569812e7-a9ef-4a63-b31b-e790408d0de0&ui=en-US&rs=en-US&ad=US#_Toc272757143
+http://www.microsoft.com/en-us/download/details.aspx?id=24974
